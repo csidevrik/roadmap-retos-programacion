@@ -36,3 +36,5 @@ pero usando tres comillas dobles """
 #  * - Crea una variable (y una constante si el lenguaje lo soporta).
 to_var = "una cadena de texto"
 si_var = 'otra cadena de texto'
+
+# https://entrenamiento-python-basico.readthedocs.io/es/3.7/leccion3/variables_constantes.html#ejemplo-de-constantes
